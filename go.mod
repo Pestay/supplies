@@ -1,3 +1,3 @@
-module github.com/Pestay/supplypb
+module github.com/Pestay/supplies
 
 go 1.19
